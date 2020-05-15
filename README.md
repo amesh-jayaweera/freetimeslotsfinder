@@ -1,2 +1,2 @@
-# freetimeslotsfinder
-Free Time Slots Finder
+# Free Time Slots Finder
+

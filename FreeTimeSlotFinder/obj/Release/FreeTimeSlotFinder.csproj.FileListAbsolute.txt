@@ -1,0 +1,12 @@
+E:\C\Documents\Docs\FreeTimeSlotFinder\FreeTimeSlotFinder\bin\Release\FreeTimeSlotFinder.exe.config
+E:\C\Documents\Docs\FreeTimeSlotFinder\FreeTimeSlotFinder\bin\Release\FreeTimeSlotFinder.exe
+E:\C\Documents\Docs\FreeTimeSlotFinder\FreeTimeSlotFinder\bin\Release\FreeTimeSlotFinder.pdb
+E:\C\Documents\Docs\FreeTimeSlotFinder\FreeTimeSlotFinder\bin\Release\MaterialSkin.dll
+E:\C\Documents\Docs\FreeTimeSlotFinder\FreeTimeSlotFinder\obj\Release\FreeTimeSlotFinder.Form1.resources
+E:\C\Documents\Docs\FreeTimeSlotFinder\FreeTimeSlotFinder\obj\Release\FreeTimeSlotFinder.Free_Time_Slots.resources
+E:\C\Documents\Docs\FreeTimeSlotFinder\FreeTimeSlotFinder\obj\Release\FreeTimeSlotFinder.Properties.Resources.resources
+E:\C\Documents\Docs\FreeTimeSlotFinder\FreeTimeSlotFinder\obj\Release\FreeTimeSlotFinder.csproj.GenerateResource.cache
+E:\C\Documents\Docs\FreeTimeSlotFinder\FreeTimeSlotFinder\obj\Release\FreeTimeSlotFinder.csproj.CoreCompileInputs.cache
+E:\C\Documents\Docs\FreeTimeSlotFinder\FreeTimeSlotFinder\obj\Release\FreeTimeSlotFinder.csproj.CopyComplete
+E:\C\Documents\Docs\FreeTimeSlotFinder\FreeTimeSlotFinder\obj\Release\FreeTimeSlotFinder.exe
+E:\C\Documents\Docs\FreeTimeSlotFinder\FreeTimeSlotFinder\obj\Release\FreeTimeSlotFinder.pdb
